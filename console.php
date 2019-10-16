@@ -1,7 +1,8 @@
-<?php
+﻿<?php
 
 # Resolving "All Different Directions" problem
 # https://open.kattis.com/problems/alldifferentdirections
+# hahah test 
 
 class TestCase
 {
