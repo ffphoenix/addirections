@@ -2,6 +2,7 @@
 
 # Resolving "All Different Directions" problem
 # https://open.kattis.com/problems/alldifferentdirections
+# rrr
 
 class TestCase
 {
